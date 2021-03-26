@@ -1,1 +1,1 @@
-# designing-through-the-debrisphere
+# thinking-through-the-debrisphere
