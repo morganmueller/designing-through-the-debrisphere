@@ -1,1 +1,1 @@
-# thinking-through-the-debrisphere
+# Thinking-through-the-debrisphere
