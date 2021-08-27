@@ -5,4 +5,5 @@ Fall 2021
 
 
 #### Required Readings:
-    The required reading for this class will include Eyal Weizman
+    The required reading for this class will include 
+    * Eyal Weizman
