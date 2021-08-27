@@ -1,5 +1,5 @@
 # Thinking-through-the-debrisphere
-
+Fall 2021
 
 ## Class Syllabus
 
