@@ -8,3 +8,4 @@ Fall 2021
     The required reading for this class will include 
     * Eyal Weizman
     * Bertolt Brecht
+    * Susan Schuppli
