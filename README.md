@@ -5,3 +5,4 @@
 
 
 #### Required Readings:
+    The required reading for this class will include
